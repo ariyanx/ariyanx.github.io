@@ -69,7 +69,7 @@ body {
         .profile-image {
             width: 150px;
             height: 150px;
-            background: url('/IMG_20241212_224143.jpg') center;
+            background: url('/retouch_2025082816160777.jpg') center;
             background-size: cover;
             border-radius: 50%;
             border: 10px solid var(--primary-bg);
@@ -339,4 +339,5 @@ body {
     transform: translate3d(15%, 100%, 0);
   }
 }
+
 
